@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: GitSampleProject
+  gitServerName: github_com
+  gitUrl: https://github.com//dharini-tech
+  gitUsername: dharini-tech
+  gitBranch: main
